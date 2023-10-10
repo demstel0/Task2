@@ -1,0 +1,5 @@
+C:\Users\demst\source\repos\ExcelApp\ExcelApp\ExcelApp.exe
+C:\Users\demst\source\repos\ExcelApp\ExcelApp\ExcelApp.dll
+C:\Users\demst\source\repos\ExcelApp\ExcelApp\ExcelApp.deps.json
+C:\Users\demst\source\repos\ExcelApp\ExcelApp\ExcelApp.runtimeconfig.json
+C:\Users\demst\source\repos\ExcelApp\ExcelApp\ExcelApp.pdb

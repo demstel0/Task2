@@ -1,0 +1,16 @@
+C:\Users\demst\source\repos\ExcelApp\ExcelApp\bin\Release\net7.0\ExcelApp.exe
+C:\Users\demst\source\repos\ExcelApp\ExcelApp\bin\Release\net7.0\ExcelApp.deps.json
+C:\Users\demst\source\repos\ExcelApp\ExcelApp\bin\Release\net7.0\ExcelApp.runtimeconfig.json
+C:\Users\demst\source\repos\ExcelApp\ExcelApp\bin\Release\net7.0\ExcelApp.dll
+C:\Users\demst\source\repos\ExcelApp\ExcelApp\bin\Release\net7.0\ExcelApp.pdb
+C:\Users\demst\source\repos\ExcelApp\ExcelApp\obj\Release\net7.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\demst\source\repos\ExcelApp\ExcelApp\obj\Release\net7.0\ExcelApp.csproj.ResolveComReference.cache
+C:\Users\demst\source\repos\ExcelApp\ExcelApp\obj\Release\net7.0\ExcelApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demst\source\repos\ExcelApp\ExcelApp\obj\Release\net7.0\ExcelApp.AssemblyInfoInputs.cache
+C:\Users\demst\source\repos\ExcelApp\ExcelApp\obj\Release\net7.0\ExcelApp.AssemblyInfo.cs
+C:\Users\demst\source\repos\ExcelApp\ExcelApp\obj\Release\net7.0\ExcelApp.csproj.CoreCompileInputs.cache
+C:\Users\demst\source\repos\ExcelApp\ExcelApp\obj\Release\net7.0\ExcelApp.dll
+C:\Users\demst\source\repos\ExcelApp\ExcelApp\obj\Release\net7.0\refint\ExcelApp.dll
+C:\Users\demst\source\repos\ExcelApp\ExcelApp\obj\Release\net7.0\ExcelApp.pdb
+C:\Users\demst\source\repos\ExcelApp\ExcelApp\obj\Release\net7.0\ExcelApp.genruntimeconfig.cache
+C:\Users\demst\source\repos\ExcelApp\ExcelApp\obj\Release\net7.0\ref\ExcelApp.dll
